@@ -1,6 +1,6 @@
 # Site settings
-baseurl = "https://example.org/"
-themesDir = "themes"
+baseurl = "https://vishal-kapur-blog.onrender.com/"
+themesDir = "../.."
 languageCode = "en-us"
 title = "Vishal Kapur - Blog"
 theme = "cactus"
@@ -12,7 +12,7 @@ googleAnalytics = ""
 [params]
 	name = "Vishal Kapur"
 	description = "Hello thoughts, my old friends."
-	bio = ""
+	bio = "Entrepreneur, engineer, else."
 	# Enter optionally your twitter account
 	twitter = "figelwump"
 	enableRSS = false
